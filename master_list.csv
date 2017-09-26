@@ -1,0 +1,213 @@
+HALF ORBIT,CRID,TYPE,DATA STREAM,DESCRIPTION,DATES AFFECTED
+12601A,,Mssing,Radar,L0A_Radar not received,11-Jun-17
+11759A/D,,Missing,Radar,L0A_Radar not received,14-Apr-17
+11385A,,Missing,Radar,L0A_Radar not received,20-Mar-17
+13322A-13322D,,Missing,Radar,"L0A_Radar not received, FSW NOR zone 1 burn activity",15-Mar-17
+13322A-13322D,,Missing,Radiometer,"L0A_Radiometer not received, FSW NOR zone 1 burn activity",15-Mar-17
+11172A,R14010,Bad,Radiometer,L1B_TB ant scan angle error,5-Mar-17
+10296D,R14010,Bad,Radiometer,L1B_TB ant scan angle error,4-Jan-17
+10230A,,Missing,Radar,L0A_Radar not received,31-Dec-16
+10208D,,Missing,Radiometer,L0A_Radiometer not received,29-Dec-16
+10190D,,Missing,Radar,L0A_Radar not received,28-Dec-16
+10191D,,Missing,Radiometer,L0A_Radiometer not received,28-Dec-16
+9963A,,Missing,Radar,L0A_Radar not received,12-Dec-16
+9909A,R14010,Bad,Radiometer,L1B_TB ant scan angle error,9-Dec-16
+9753D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",28-Nov-16
+9715D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",25-Nov-16
+9609D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",18-Nov-16
+9523A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",12-Nov-16
+9434A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",6-Nov-16
+9392D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",3-Nov-16
+9262D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",25-Oct-16
+9167D,,Missing,Radiometer,L0A_Radiometer not received,19-Oct-16
+9126D,,Missing,Radar,L0A_Radar not received,16-Oct-16
+9126D,,Missing,Radiometer,L0A_Radiometer not received,16-Oct-16
+9127A,,Missing,Radiometer,L0A_Radiometer not received,16-Oct-16
+9098D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",14-Oct-16
+9070D,R14010,Bad,Enhanced Radiometer,L2_SM_P_E processing failure,12-Oct-16
+8930D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",3-Oct-16
+8894D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",30-Sep-16
+8855A-8864A,,Missing,Radar,"L0A_Radar notæreceived_FSW upgrade - September 26-28, 2015",28-Sep-16
+8855A-8864A,,Missing,Radiometer,"L0A_Radiometer not received _ FSW upgrade - September 26-28, 2015",28-Sep-16
+8840A-8854D,,Missing,Radar,"L0A_Radar notæreceived_FSW upgrade - September 26-28, 2015",27-Sep-16
+8840A-8854D,,Missing,Radiometer,"L0A_Radiometer not received _ FSW upgrade - September 26-28, 2015",27-Sep-16
+8836A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",26-Sep-16
+8839D,,Missing,Radar,"L0A_Radar notæreceived_FSW upgrade - September 26-28, 2015",26-Sep-16
+8839D,,Missing,Radiometer,"L0A_Radiometer not received _ FSW upgrade - September 26-28, 2015",26-Sep-16
+8755D,R13080,Bad,Radiometer,L1B_TB ant scan angle error,21-Sep-16
+8637D,,Missing,Radiometer,L0A_Radiometer not received,13-Sep-16
+8619A,R13080,Bad,Radiometer,bad L0A_Radiometer data due to gap in S-band data,11-Sep-16
+8619D,R13080,Bad,Radiometer,bad L0A_Radiometer data due to gap in S-band data,11-Sep-16
+8601D,R14010,Bad,Enhanced Radiometer,L2_SM_P_E processing failure,10-Sep-16
+8530D-8542D,,Missing,Radar,"L0A_Radar notæreceived_FSW reset - September 5-6, 2016",5-Sep-16
+8530D-8542D,,Missing,Radiometer,"L0A_Radiometer not received _ FSW reset - September 5-6, 2016",5-Sep-16
+8460A,R13080,Bad,Radiometer,L1B_TB ant scan angle error,1-Sep-16
+8460D,R13080,Bad,Radiometer,L1B_TB ant scan angle error,1-Sep-16
+8322D,,Missing,Radiometer,L0A_Radiometer not received,22-Aug-16
+8192D,,Missing,Radar,L0A_Radar not received,13-Aug-16
+8192D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",13-Aug-16
+8194A,,Missing,Radiometer,L0A_Radiometer not received,13-Aug-16
+8169D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",12-Aug-16
+7986A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",30-Jul-16
+7956D,,Missing,Radiometer,L0A_Radiometer not received,28-Jul-16
+7927A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",26-Jul-16
+7910A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",25-Jul-16
+7752A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",14-Jul-16
+7648A,R13080,Bad,Radiometer,L1B_TB processing failure,7-Jul-16
+7650A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",7-Jul-16
+7566A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",1-Jul-16
+7507D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",27-Jun-16
+7489A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",26-Jun-16
+7448D,R13080,Bad,Radiometer,L1B_TB ant scan angle error,23-Jun-16
+7431A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",22-Jun-16
+7396A,,Missing,Radar,L0A_Radar not received,20-Jun-16
+7356D,,Missing,Radiometer,L0A_Radiometer not received,17-Jun-16
+7299A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",13-Jun-16
+7272D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",11-Jun-16
+7186A,R13080,Bad,Radiometer,L1B_TB processing failure,5-Jun-16
+7138A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",2-Jun-16
+7116A,,Missing,Radar,L0A_Radar not received,1-Jun-16
+7022D,R14010,Bad,Enhanced Radiometer,L2_SM_P_E processing failure,25-May-16
+7023A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",25-May-16
+6992A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",23-May-16
+6977A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",22-May-16
+6852D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",14-May-16
+6809D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",11-May-16
+6747D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",6-May-16
+6692D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",3-May-16
+6676A-6686D,,Missing,Radar,"L0A_Radar notæreceived_FSW reset - April 30 - May 02, 2016",2-May-16
+6676A-6686D,,Missing,Radiometer,"L0A_Radiometer not received _ FSW reset - April 30 - May 02, 2016",2-May-16
+6661A-6675D,,Missing,Radar,"L0A_Radar notæreceived_FSW reset - April 30 - May 02, 2016",1-May-16
+6661A-6675D,,Missing,Radiometer,"L0A_Radiometer not received _ FSW reset - April 30 - May 02, 2016",1-May-16
+6649A-6660D,,Missing,Radar,"L0A_Radar notæreceived_FSW reset - April 30 - May 02, 2016",30-Apr-16
+6649A-6660D,,Missing,Radiometer,"L0A_Radiometer not received _ FSW reset - April 30 - May 02, 2016",30-Apr-16
+6589A,,Missing,Radar,L0A_Radar not received,26-Apr-16
+6587A,,Missing,Radiometer,L0A_Radiometer not received,25-Apr-16
+6587D,,Missing,Radar,L0A_Radar not received,25-Apr-16
+6522D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",21-Apr-16
+6513A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",20-Apr-16
+6393D,R14010,Bad,Enhanced Radiometer,L2_SM_P_E processing failure,12-Apr-16
+6397A,R13080,Bad,Radiometer,no scan for Radiometer L1B_TB,12-Apr-16
+6286D,,Missing,Radiometer,L0A_Radiometer not received,5-Apr-16
+6287A,,Missing,Radiometer,L0A_Radiometer not received,5-Apr-16
+5974D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",15-Mar-16
+5963A,R13080,Bad,Radiometer,L1B_TB ant scan angle error,14-Mar-16
+5953D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",13-Mar-16
+5914D,R13080,Bad,Radiometer,"no Radiometer L1B_TB product, failed SPS processing",10-Mar-16
+5852D,R14010,Bad,Enhanced Radiometer,L2_SM_P_E processing failure,6-Mar-16
+5810A,,Missing,Radar,L0A_Radar not received,3-Mar-16
+5764A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",29-Feb-16
+5587A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",17-Feb-16
+5577A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",16-Feb-16
+5518D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",12-Feb-16
+5116D,R14010,Bad,Enhanced Radiometer,L2_SM_P_E processing failure,16-Jan-16
+4990D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",7-Jan-16
+4900D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",1-Jan-16
+4875A,R13080,Bad,Radiometer,"no Radiometer L1B_TB product, failed SPS processing",30-Dec-15
+4844D,R13080,Bad,Radiometer,no scan for Radiometer L1B_TB,28-Dec-15
+4693D,R13080,Bad,Radiometer,no L1A_Radiometer product due to missing S-band,18-Dec-15
+4672A-4683A,,Missing,Radar,"L0A_Radar notæreceived_FSW reset - December 15-17, 2015",17-Dec-15
+4672A-4683A,,Missing,Radiometer,"L0A_Radiometer not received _ FSW reset - December 15-17, 2015",17-Dec-15
+4657A-4671D,,Missing,Radar,"L0A_Radar notæreceived_FSW reset - December 15-17, 2015",16-Dec-15
+4657A-4671D,,Missing,Radiometer,"L0A_Radiometer not received _ FSW reset - December 15-17, 2015",16-Dec-15
+4645A,R13080,Bad,Radiometer,no L1A_Radiometer  product due to missing S-band,15-Dec-15
+4645D-4656D,,Missing,Radar,"L0A_Radar notæreceived_FSW reset - December 15-17, 2015",15-Dec-15
+4645D-4656D,,Missing,Radiometer,"L0A_Radiometer not received _ FSW reset - December 15-17, 2015",15-Dec-15
+4615D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",13-Dec-15
+4618A,,Missing,Radar,L0A_Radar not received,13-Dec-15
+4574D,,Missing,Radar,L0A_Radar not received,10-Dec-15
+4575D,,Missing,Radiometer,L0A_Radiometer not received,10-Dec-15
+4519D,R14010,Bad,Enhanced Radiometer,L2_SM_P_E processing failure,6-Dec-15
+4433A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",30-Nov-15
+4417D,,Missing,Radiometer,L0A_Radiometer not received,29-Nov-15
+4418A,,Missing,Radar,L0A_Radar not received,29-Nov-15
+4390A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",27-Nov-15
+4373D,,Missing,Radiometer,L0A_Radiometer not received,26-Nov-15
+4374A,,Missing,Radiometer,L0A_Radiometer not received,26-Nov-15
+4359D,,Missing,Radiometer,L0A_Radiometer not received,25-Nov-15
+4360A,R13080,Bad,Radiometer,"no L1B_TB product, failed SPS processing",25-Nov-15
+3985A,,Missing,Radar,L0A_Radar not received,31-Oct-15
+3971A,,Missing,Radar,L0A_Radar not received,30-Oct-15
+3951D,R13080,Bad,Radiometer,ratty L0A_Radiometer telemetry (time correlation clock jump),28-Oct-15
+3644D,R14010,Bad,Enhanced Radiometer,L2_SM_P_E processing failure,7-Oct-15
+3424A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",22-Sep-15
+3395D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",20-Sep-15
+3352D,,Missing,Radar,L0A_Radar not received,17-Sep-15
+3337A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",16-Sep-15
+3255D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",9-Sep-15
+3205D,R14010,Bad,Enhanced Radiometer,L2_SM_P_E processing failure,7-Sep-15
+3178D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",5-Sep-15
+3001A,,Missing,Radiometer,L0A_Radiometer not received,24-Aug-15
+3001D,,Missing,Radiometer,L0A_Radiometer not received,24-Aug-15
+3002A,,Missing,Radiometer,L0A_Radiometer not received,24-Aug-15
+3002D,,Missing,Radiometer,L0A_Radiometer not received,24-Aug-15
+3003A,,Missing,Radiometer,L0A_Radiometer not received,24-Aug-15
+3003D,,Missing,Radiometer,L0A_Radiometer not received,24-Aug-15
+2944D,R13080,Bad,Radiometer,no L1A_Radiometer product due to missing S-band,20-Aug-15
+2945A,R13080,Bad,Radar,no L1A_Radar product due to missing S-band,20-Aug-15
+2945A,R13080,Bad,Radiometer,no L1A_Radiometer product due to missing S-band,20-Aug-15
+2927A,R13080,Bad,Radar,no L1A_Radar product due to missing S-band,19-Aug-15
+2927A,R13080,Bad,Radiometer,no L1A_Radiometer product due to missing S-band,19-Aug-15
+2927D,R13080,Bad,Radar,no L1A_Radar product due to missing S-band,19-Aug-15
+2929A,R13080,Bad,Radar,no L1A_Radar product due to missing S-band,19-Aug-15
+2929A,R13080,Bad,Radiometer,no L1A_Radiometer product due to missing S-band,19-Aug-15
+2881D,R13080,Bad,Radiometer,L1B_TB ant scan angle error,16-Aug-15
+2868A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",15-Aug-15
+2707D,,Missing,Radar,L0A_Radar not received,4-Aug-15
+2709A,,Missing,Radar,L0A_Radar not received,4-Aug-15
+2655A,,Missing,Radar,L0A_Radar not received,1-Aug-15
+2653D,R13080,Bad,Radiometer,no L1A_Radiometer product due to missing S-band,31-Jul-15
+2635A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",30-Jul-15
+2605D-2609A,,Missing,Radiometer,L0A_Radiometer not received,28-Jul-15
+2582A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",27-Jul-15
+2535D,,Missing,Radiometer,L0A_Radiometer not received,23-Jul-15
+2430D,,Missing,Radiometer,L0A_Radiometer not received,16-Jul-15
+2431A,R13080,Bad,Radiometer,no L1A_Radiometer product due to missing S-band,16-Jul-15
+2401A-2402A,,Missing,Radiometer,L0A_Radiometer not received,14-Jul-15
+2386A,,Missing,Radar,L0A_Radar not received,13-Jul-15
+2386A-2387A,,Missing,Radiometer,L0A_Radiometer not received,13-Jul-15
+2359D,,Missing,Radar,L0A_Radar not received,11-Jul-15
+2301A,,Bad,Radar,HPA anomaly L0A_Radar goes to receive-mode only,7-Jul-15
+2180A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",29-Jun-15
+2125D,,Missing,Radar,L0A_Radar not received,25-Jun-15
+2125D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",25-Jun-15
+2126A,,Missing,Radar,L0A_Radar not received,25-Jun-15
+2085D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",23-Jun-15
+2074D,R14010,Bad,Enhanced Radiometer,L2_SM_P_E processing failure,22-Jun-15
+2077A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",22-Jun-15
+2061A,R12170,Bad,Radar,L1A_Radar failure algorithm exception,21-Jun-15
+2067A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",21-Jun-15
+1996A-2007D,,Missing,Radar,"L0A_Radar not received --instrument off FSW upgrade - June 16, 17, 2015",17-Jun-15
+1996A-2007D,,Missing,Radiometer,"L0A_Radiometer not received --instrument off FSW upgrade - June 16, 17, 2015",17-Jun-15
+1983D,R12170,Missing,Radiometer,L0A_Radiometer not received,16-Jun-15
+1988A-1995D,,Missing,Radar,"L0A_Radar not received --instrument off FSW upgrade - June 16, 17, 2015",16-Jun-15
+1989D-1995D,,Missing,Radiometer,"L0A_Radiometer not received --instrument off FSW upgrade - June 16, 17, 2015",16-Jun-15
+1911D,R13080,Bad,Radiometer,no scan for Radiometer L1B_TB,11-Jun-15
+1891D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",9-Jun-15
+1793D,R13080,Bad,Radar,no data to process for Radar L1C_S0_HiRes,3-Jun-15
+1757D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",31-May-15
+1734D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",30-May-15
+1640D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",23-May-15
+1593D,R13080,Bad,Radar,no data to process for Radar L1C_S0_HiRes,20-May-15
+1595A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",20-May-15
+1515A,R13080,Bad,Radar,no data to process for Radar L1C_S0_HiRes,15-May-15
+1515D,R13080,Bad,Radar,no data to process for Radar L1C_S0_HiRes,15-May-15
+1499A-1507D,,Missing,Radar,"L0A_Radar not received _safe mode  May 12-14, 2015",14-May-15
+1499A-1507D,,Missing,Radiometer,"L0A_Radiometer not received _safe mode  May 12-14, 2015",14-May-15
+1511A,,Missing,Radar,L0A_Radar not received,14-May-15
+1484A-1498D,,Missing,Radar,"L0A_Radar not received _safe mode  May 12-14, 2015",13-May-15
+1484A-1498D,,Missing,Radiometer,"L0A_Radiometer not received _safe mode  May 12-14, 2015",13-May-15
+1475D-1483D,,Missing,Radar,"L0A_Radar not received _safe mode  May 12-14, 2015",12-May-15
+1475D-1483D,,Missing,Radiometer,"L0A_Radiometer not received _safe mode  May 12-14, 2015",12-May-15
+1442D,R13080,Bad,Radar,ratty L0A_Radar telemetry (time correlation clock jump),10-May-15
+1449A,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",10-May-15
+1381D,R13080,Bad,Radar,Spice error for L0A_Radar processing_no products produced,6-May-15
+1381D,R13080,Bad,Radiometer,Spice error for L0A_Radiometer processing_no products produced,6-May-15
+1306D,R14010,Bad,Enhanced Radiometer,"L1B_TB_E, L1C_TB_E, L2_SM_P_E processing failure",30-Apr-15
+1106D,R12240,Bad,Radar,insuffDSKData so no L1C_S0_HiRes Radar product,17-Apr-15
+909A,R12170,Bad,Radiometer,no scan in L1A Radiometer to be able to produced L1B_TB,3-Apr-15
+909D,R12170,Bad,Radiometer,no scan in L1A Radiometer to be able to produced L1B_TB,3-Apr-15
+910A,R12170,Bad,Radiometer,no scan in L1A Radiometer to be able to produced L1B_TB,3-Apr-15
+910D,R13080,Bad,Radiometer,L1B_TB ant scan angle error,3-Apr-15
+911A,R13080,Bad,Radiometer,L1B_TB ant scan angle error,3-Apr-15
+911D,R13080,Bad,Radiometer,L1B_TB ant scan angle error,3-Apr-15
